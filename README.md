@@ -1,5 +1,5 @@
 # ruang-belajar
 Contributor:
 
-- `<yourname> - <id>`
+- `<Resta Sabila> - <BE4317912>`
 - Bob
